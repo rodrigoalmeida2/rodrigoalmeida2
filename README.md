@@ -1,12 +1,30 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+  
+  ## HI! 😎
+  
+  <div align="center" style="display:flex;gap:0.4rem;flex-wrap:wrap;justify-content:center;align-items:center">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoalmeida2&layout=compact&langs_count=8&theme=dracula&hide=html,css,blade"
+      height="180em"
+      title="rod langs"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=rodrigoalmeida2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      height="180em"
+      title="Rod stats"
+    />
+  </div>
+</div>
 
-## Olá! Eu sou o Rodrigo Almeida
+## ABOUT ME
 
-- Atualmente estudando Sistemas de Informação na Universidade Federal do Pará
+Information Systems student at the Federal University of Pará (UFPA), currently in the 7th semester. I had the opportunity to work as an IT intern at the Pro-Rectory of Education at UFPA, using skills in automation, web development, analysis and data processing using pandas and Python. In the research area, I worked as a scholarship holder (PIVIC) at the Electrical Engineering center at UFPA, focusing on the study of optical networks with Java.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoalmeida2&layout=compact)](https://github.com/rodrigoalmeida2/github-readme-stats)
+## MAIN TECHNOLOGIES
 
-## CONTATOS
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=py,pandas,huggingface,langchain,django,tensorflow,java,mysql,mongodb,postgresql,azure,docker,aws,linux,azure,js,html,css,react,nodejs,php,c,gcp)
+
+## PROFILE
 
 <p align="left">
   <a href="mailto:rodrigoalmeida350.ra@gmail.com" title="Gmail">
