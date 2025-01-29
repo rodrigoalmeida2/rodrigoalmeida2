@@ -20,7 +20,7 @@
 
 Information Systems student at the Federal University of Pará (UFPA), currently in the 7th semester. I had the opportunity to work as an IT intern at the Pro-Rectory of Education at UFPA, using skills in automation, web development, analysis and data processing using pandas and Python. In the research area, I worked as a scholarship holder (PIVIC) at the Electrical Engineering center at UFPA, focusing on the study of optical networks with Java.
 
-## MAIN TECHNOLOGIES
+## TECHNOLOGIES
 
 ![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=py,pandas,huggingface,langchain,django,tensorflow,java,mysql,mongodb,postgresql,azure,docker,aws,linux,azure,js,html,css,react,nodejs,php,c,gcp)
 
