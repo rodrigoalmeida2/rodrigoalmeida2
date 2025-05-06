@@ -18,7 +18,7 @@
 
 ## ABOUT ME
 
-Information Systems student at the Federal University of Pará (UFPA), currently in the 7th semester. I had the opportunity to work as an IT intern at the Pro-Rectory of Education at UFPA, using skills in automation, web development, analysis and data processing using pandas and Python. In the research area, I worked as a scholarship holder (PIVIC) at the Electrical Engineering center at UFPA, focusing on the study of optical networks with Java.
+Information Systems student at the Federal University of Pará (UFPA), currently in the 8th semester. I'm current working as a backend developer in SEAP(State Secretariat for Penitentiary Administration of Pará), using PHP and Laravel. In the research area, I worked as a scholarship holder (PIVIC) at the Electrical Engineering center at UFPA, focusing on the study of optical networks with Java.
 
 ## TECHNOLOGIES
 
