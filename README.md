@@ -1,20 +1,6 @@
 <div align="center">
   
-  ## HI! 😎
-  
-  <div align="center" style="display:flex;gap:0.4rem;flex-wrap:wrap;justify-content:center;align-items:center">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoalmeida2&layout=compact&langs_count=8&theme=dracula&hide=html,css,blade"
-      height="180em"
-      title="rod langs"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=rodrigoalmeida2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      height="180em"
-      title="Rod stats"
-    />
-  </div>
-</div>
+  ## HI! 
 
 ## ABOUT ME
 
@@ -22,7 +8,7 @@ Information Systems student at the Federal University of Pará (UFPA), currently
 
 ## TECHNOLOGIES
 
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=py,pandas,huggingface,langchain,django,tensorflow,java,mysql,mongodb,postgresql,azure,docker,aws,linux,azure,js,html,css,react,nodejs,php,c,gcp)
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,py,go,laravel,kafka,nginx,pandas,huggingface,langchain,django,fastapi,mysql,postgresql,docker,postman,rabbitmq,redis,aws,linux,arch,ubuntu,js,html,css,react,vue,nuxtjs,nodejs,php)
 
 ## PROFILE
 
