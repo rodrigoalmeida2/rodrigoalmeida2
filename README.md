@@ -1,10 +1,16 @@
 <div align="center">
-  
-  ## HI! 
 
 ## ABOUT ME
 
-Information Systems student at the Federal University of Pará (UFPA), currently in the 8th semester. I'm current working as a backend developer in SEAP(State Secretariat for Penitentiary Administration of Pará), using PHP and Laravel. In the research area, I worked as a scholarship holder (PIVIC) at the Electrical Engineering center at UFPA, focusing on the study of optical networks with Java.
+# FULL-STACK DEVELOPER #
+**focused on backend applications**  
+My experience includes building APIs, monoliths, generative AI, and some machine learning-focused applications.
+My most proficient languages ​​are PHP, Python, Go, and JavaScript.
+Database technologies I've worked with and still work with today are MySQL, PostgreSQL, MariaDB, and a little bit of MongoDB.
+Regarding infrastructure, I use Docker for everything, Linux, Git, and Nginx.
+Practical knowledge of AWS.
+Agile methodology with Scrum.
+Extremely communicative.
 
 ## TECHNOLOGIES
 
