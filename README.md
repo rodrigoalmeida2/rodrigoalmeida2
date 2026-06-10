@@ -1,28 +1,75 @@
 <div align="center">
 
-## ABOUT ME
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:06AEEE,50:E548B1ff&height=120&section=header&text=Rodrigo%20Almeida&fontSize=42&fontColor=fdf0d5&fontAlignY=65&desc=Full-Stack%20Developer%20·%20Backend-focused&descAlignY=85&descSize=16&descColor=a0a0b0" width="100%"/>
 
-# FULL-STACK DEVELOPER #
-**focused on backend applications**  
-My experience includes building APIs, monoliths, generative AI, and some machine learning-focused applications.
-My most proficient languages ​​are PHP, Python, Go, and JavaScript.
-Database technologies I've worked with and still work with today are MySQL, PostgreSQL, MariaDB, and a little bit of MongoDB.
-Regarding infrastructure, I use Docker for everything, Linux, Git, and Nginx.
-Practical knowledge of AWS.
-Agile methodology with Scrum.
-Extremely communicative.
+</div>
 
-## TECHNOLOGIES
+---
 
-![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,py,go,laravel,kafka,nginx,pandas,huggingface,langchain,django,fastapi,mysql,postgresql,docker,postman,rabbitmq,redis,aws,linux,arch,ubuntu,js,html,css,react,vue,nuxtjs,nodejs,php)
+### About
 
-## PROFILE
+Full-stack developer with a strong lean toward backend systems — APIs, distributed architectures, and machine learning pipelines. I work primarily with **PHP, Python, Go, and JavaScript**, and I care about building things that are reliable, maintainable, and well-structured.
 
-<p align="left">
-  <a href="mailto:rodrigoalmeida350.ra@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/rodrigo101/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/rodrigoalmeida2k/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+My day-to-day involves Docker-first infrastructure, Nginx, Linux, and Git. I've shipped production systems integrating **RabbitMQ**, **PostgreSQL**, **Redis**, and cloud infrastructure on **AWS**. I also work with generative AI and LLM pipelines using LangChain and Hugging Face.
+
+I'm communicative, work well in Scrum teams, and take documentation seriously.
+
+---
+
+### Tech Stack
+
+#### Languages & Frameworks
+![](https://go-skill-icons.vercel.app/api/icons?i=php,py,go,js,laravel,django,fastapi,react,vue,nuxtjs,nodejs)
+
+#### Data & Infrastructure
+![](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,mongodb,redis,rabbitmq,kafka,docker,nginx,aws,linux)
+
+#### Tooling & Workflow
+![](https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,postman,arch,ubuntu)
+
+#### AI / ML
+![](https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain,pandas)
+
+---
+
+### GitHub Stats
+ 
+
+<!-- Option 3: Profile summary cards -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoalmeida2&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigoalmeida2&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodrigoalmeida2&theme=github_dark" height="160"/>
+</div>
+
+
+### Currently
+
+- 🔧 Building and integrating financial APIs with async processing via RabbitMQ
+- 🐳 Exploring local Kubernetes environments with minikube + Docker
+- 🎨 Developing a personal UI kit and design system
+- 📚 Deepening knowledge in distributed systems and LLM pipelines
+
+---
+
+### Connect
+
+<p>
+  <a href="mailto:rodrigoalmeida350.ra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rodrigoalmeida350.ra-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo101/">
+    <img src="https://img.shields.io/badge/LinkedIn-rodrigo101-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rodrigoalmeida2k/">
+    <img src="https://img.shields.io/badge/Instagram-rodrigoalmeida2k-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+<sub>he/him · Belém, BR · open to remote opportunities</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:06AEEE,50:E548B1ff&height=80&section=footer" width="100%"/>
